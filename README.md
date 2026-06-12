@@ -47,7 +47,7 @@ Main dependencies:
 python fair_holdout_comparison.py
 ```
 
-> ⚠️ **Note**: `fair_holdout_comparison.py` requires feature files (Curing_Des.csv, FR_Des.csv, EP_Des.csv, Target.csv, etc.). These files are not included in this repository — please contact the author if needed.
+> ⚠️ **Note**: `fair_holdout_comparison.py` requires feature files (Curing_Des.csv, FR_Des.csv, EP_Des.csv, Target.csv, etc.). These files are not included in this repository — please contact the author if needed (zhongw_chen@njtech.edu.cn) .
 
 ### 2. Generate Visualizations
 
